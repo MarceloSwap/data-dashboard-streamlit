@@ -1,0 +1,18 @@
+DATASET Insurance:
+
+Este conjunto de dados contém 1338 linhas de dados de segurados. As cobranças de seguro são fornecidas em relação aos seguintes atributos do segurado.
+
+
+Colunas:
+
+Age (Idade)
+Sex (Gênero)
+BMI (Índice de Massa Corporal - IMC)
+Number of Children (Número de Filhos)
+Smoker (Fumante)
+Region (Região)
+
+-------------------------------
+Métrica: ?
+-------------------------------
+Sugestão: usar age e charges

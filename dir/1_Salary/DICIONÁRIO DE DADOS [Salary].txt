@@ -1,0 +1,23 @@
+DATASET Salary:
+
+Este conjunto de dados contém informações sobre os salários dos funcionários em uma empresa. Cada linha representa um funcionário diferente, e as colunas incluem informações como idade, gênero, nível de educação, cargo, anos de experiência e salário.
+
+
+Colunas:
+
+Age (Idade): Esta coluna representa a idade de cada funcionário em anos. Os valores nesta coluna são numéricos.
+
+Gender (Gênero): Esta coluna contém o gênero de cada funcionário, que pode ser masculino ou feminino. Os valores nesta coluna são categóricos.
+
+Education Level (Nível de Educação): Esta coluna contém o nível de educação de cada funcionário, que pode ser ensino médio, graduação, mestrado ou doutorado. Os valores nesta coluna são categóricos.
+
+Job Title (Cargo): Esta coluna contém o cargo de cada funcionário. Os cargos podem variar dependendo da empresa e podem incluir posições como gerente, analista, engenheiro ou administrador. Os valores nesta coluna são categóricos.
+
+Years of Experience (Anos de Experiência): Esta coluna representa o número de anos de experiência de trabalho de cada funcionário. Os valores nesta coluna são numéricos.
+
+Salary (Salário): Esta coluna representa o salário anual de cada funcionário em dólares americanos. Os valores nesta coluna são numéricos e podem variar dependendo de fatores como cargo, anos de experiência e nível de educação.
+
+-------------------------------------------------------
+Métrica: ?
+-------------------------------------------------------
+Sugestão: usar Years of Experience e Salary

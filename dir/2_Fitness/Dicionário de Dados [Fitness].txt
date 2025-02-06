@@ -1,0 +1,25 @@
+DATASET Fitness:
+
+Um conjunto de dados sobre as tendências de fitness e como elas mudam com o exercício.
+
+
+Colunas:
+
+Date (Data): Esta coluna representa a data em que os dados foram registrados.
+
+Step Count (Contagem de Passos): Esta coluna contém o número de passos dados no dia, que é o exercício feito pela pessoa.
+
+Calories Burned (Calorias Queimadas): Esta coluna representa a quantidade de calorias queimadas no dia.
+
+Mood (Humor): Esta coluna descreve o estado de humor registrado no dia.
+
+Hours of Sleep (Horas de Sono): Esta coluna indica a quantidade de horas de sono no dia.
+
+Feeling or Activeness or Inactiveness (Sentimento ou Atividade ou Inatividade): Esta coluna pode conter informações sobre como a pessoa se sentiu no dia ou seu nível de atividade ou inatividade.
+
+Weight (Peso): Esta coluna representa o peso registrado no dia.
+
+-----------------------------------------------
+Métrica: ?
+-----------------------------------------------
+Sugestão: usar calories_burned
