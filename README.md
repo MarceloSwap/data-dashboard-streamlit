@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Execute a aplicação Streamlit:
 ```bash
-streamlit run app.py
+streamlit run Atividade_03_01.py
 ```
 
 ---
