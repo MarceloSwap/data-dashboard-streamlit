@@ -57,15 +57,15 @@ pip install -r requirements.txt
 streamlit run Atividade_03_01.py
 ```
 ## 📸 Prints da Aplicação
-![image](https://github.com/user-attachments/assets/ccaa24e4-66e9-401e-b0be-ae29b2f97778)
-![image](https://github.com/user-attachments/assets/6387c473-4d37-44fc-b7a5-73334562e9c4)
-![image](https://github.com/user-attachments/assets/be7796f2-55b8-45a6-a44f-b21cce9b611f)
-![image](https://github.com/user-attachments/assets/749b5eb1-58ab-4c81-9908-ef81a3e3e799)
+![image](https://github.com/user-attachments/assets/ccaa24e4-66e9-401e-b0be-ae29b2f97778)<br>
+![image](https://github.com/user-attachments/assets/6387c473-4d37-44fc-b7a5-73334562e9c4)<br>
+![image](https://github.com/user-attachments/assets/be7796f2-55b8-45a6-a44f-b21cce9b611f)<br>
+![image](https://github.com/user-attachments/assets/749b5eb1-58ab-4c81-9908-ef81a3e3e799)<br>
 
 ## 🌍 Deploy
 
-Deploy realizado com sucesso!!
-![image](https://github.com/user-attachments/assets/3afa4840-e31e-40dc-8720-123bbe028e89)
+Deploy realizado com sucesso!!<br>
+![image](https://github.com/user-attachments/assets/3afa4840-e31e-40dc-8720-123bbe028e89)<br>
 
 A aplicação pode ser acessada via **Streamlit Cloud** pelo link: [🔗 Clique Aqui](https://marcelo-data-dashboard-app.streamlit.app/)<br>
 Link para um vídeo que eu explico um pouco do projeto: [🔗 Clique Aqui](https://drive.google.com/file/d/16OIHGT3yPwKfkzAYs49Oq0bb_4ybt8el/view?usp=drive_link)<br>
