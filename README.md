@@ -56,6 +56,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run Atividade_03_01.py
 ```
+## 📸 Prints da Aplicação
+![image](https://github.com/user-attachments/assets/ccaa24e4-66e9-401e-b0be-ae29b2f97778)
+![image](https://github.com/user-attachments/assets/6387c473-4d37-44fc-b7a5-73334562e9c4)
+![image](https://github.com/user-attachments/assets/be7796f2-55b8-45a6-a44f-b21cce9b611f)
+![image](https://github.com/user-attachments/assets/749b5eb1-58ab-4c81-9908-ef81a3e3e799)
 
 ## 🌍 Deploy
 A aplicação pode ser acessada via **Streamlit Cloud** pelo link: [🔗 Seu Link Aqui]
