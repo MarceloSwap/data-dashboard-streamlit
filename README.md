@@ -63,4 +63,5 @@ streamlit run Atividade_03_01.py
 ![image](https://github.com/user-attachments/assets/749b5eb1-58ab-4c81-9908-ef81a3e3e799)
 
 ## 🌍 Deploy
-A aplicação pode ser acessada via **Streamlit Cloud** pelo link: [🔗 Seu Link Aqui]
+A aplicação pode ser acessada via **Streamlit Cloud** pelo link: [🔗 Seu Link Aqui](https://marcelo-data-dashboard-app.streamlit.app/)<br>
+Link para um vídeo que eu explico um pouco do projeto: [🔗 Seu Link Aqui](https://drive.google.com/file/d/16OIHGT3yPwKfkzAYs49Oq0bb_4ybt8el/view?usp=drive_link)<br>
