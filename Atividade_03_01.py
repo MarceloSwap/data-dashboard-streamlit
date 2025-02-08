@@ -8,12 +8,12 @@ import plotly.express as px
 
 # lista de datasets disponíveis
 datasets = {
-    "Salary": "C:/Users/marce/OneDrive/Documentos/projeto/dir/1_Salary/Salary.csv",
-    "Fitness": "C:/Users/marce/OneDrive/Documentos/projeto/dir/2_Fitness/Fitness.csv",
-    "MotorCO2": "C:/Users/marce/OneDrive/Documentos/projeto/dir/3_MotorCO2/FuelConsumptionCo2.csv",
-    "Insurance": "C:/Users/marce/OneDrive/Documentos/projeto/dir/4_Insurance/insurance.csv",
-    "Bike_rent": "C:/Users/marce/OneDrive/Documentos/projeto/dir/5_Bike_rent/Bike_rent.csv",
-    "kc_house_data": "C:/Users/marce/OneDrive/Documentos/projeto/dir/6_kc_house_data/kc_house_data.csv",
+    "Salary": "data-dashboard-streamlit/dir/1_Salary/Salary.csv",
+    "Fitness": "data-dashboard-streamlit/dir/2_Fitness/Fitness.csv",
+    "MotorCO2": "data-dashboard-streamlit/dir/3_MotorCO2/FuelConsumptionCo2.csv",
+    "Insurance": "data-dashboard-streamlit/dir/4_Insurance/insurance.csv",
+    "Bike_rent": "data-dashboard-streamlit/dir/5_Bike_rent/Bike_rent.csv",
+    "kc_house_data": "data-dashboard-streamlit/dir/6_kc_house_data/kc_house_data.csv",
 }
 
 # interface do Streamlit
